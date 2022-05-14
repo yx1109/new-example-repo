@@ -3,7 +3,7 @@
 Any text with no empty lines between will become a paragraaph.
 Another line.
 Font *Italic* or **Bold text**.
-Code highlight 'backtick'.
+Code highlight `backtick`.
 
 ## Header two
 
